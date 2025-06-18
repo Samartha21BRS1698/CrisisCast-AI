@@ -4,7 +4,8 @@
 > Real-Time Disaster Tweet Detection and Geo-Analysis System  
 > 📅 Built: June 2025  
 ⚙️Skills:
- • EDA • NLP • Machine Learning • Streamlit • GeoMapping
+
+• EDA • NLP • Machine Learning • Streamlit • GeoMapping
 
 ---
 
