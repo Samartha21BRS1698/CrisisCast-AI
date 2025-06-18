@@ -92,9 +92,29 @@ Confusion Matrix
 
 📁 Project Structure
 
+CrisisCast-AI/
+│
+├── collect_tweets.py            # Live tweet fetcher
+├── eda_tweets.py                # Exploratory data analysis
+├── train_disaster_classifier.py # Model training
+├── classify_live_tweets.py      # Predict disaster tweets
+├── map_geo_tweets.py            # Geolocation visualization
+├── dashboard.py                 # Streamlit dashboard
+├── cleaned_tweets.csv           # Cleaned tweet output
+├── classified_tweets.csv        # Final predictions
+├── disaster_model.pkl           # Trained ML model
+├── vectorizer.pkl               # TF-IDF vectorizer
+├── .env                         
+├── .gitignore
+└── README.md
 
-Author: Samartha
-🔗 LinkedIn | GitHub
+
+## 🙌 Author
+
+**Samartha**  
+B.Tech student 
+🎓 AI/ML • Data Science •  NLP • Google Cloud 
+🔗 [LinkedIn](https://www.linkedin.com/in/samartha-b0154a293) | [GitHub](https://github.com/Samartha21BRS1698)
 
 📝 License
  MIT License © 2025 Samartha
