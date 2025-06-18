@@ -3,9 +3,7 @@
 
 > Real-Time Disaster Tweet Detection and Geo-Analysis System  
 > 📅 Built: June 2025  
-⚙️Skills:
-
-• EDA • NLP • Machine Learning • Streamlit • GeoMapping
+⚙️Skills->  EDA • NLP • Machine Learning • Streamlit • GeoMapping
 
 ---
 
@@ -92,7 +90,7 @@ Confusion Matrix
 ![alt text](disaster_confusion_matrix.png)
 
 📁 Project Structure
-
+```bash
 CrisisCast-AI/
 │
 ├── collect_tweets.py            # Live tweet fetcher
@@ -108,7 +106,7 @@ CrisisCast-AI/
 ├── .env                         
 ├── .gitignore
 └── README.md
-
+```
 
 ## 🙌 Author
 
